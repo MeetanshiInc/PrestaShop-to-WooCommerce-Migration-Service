@@ -24,4 +24,4 @@ Whereas, WooCommerce is a widely used platform that offers great plugins, severa
 * 6 months warranty
 
  
-For more information, visit: ***https://meetanshi.com/prestashop-to-woocommerce-migration-service.html](https://meetanshi.com/prestashop-to-woocommerce-migration-service.html)***
+For more information, visit: ***[https://meetanshi.com/prestashop-to-woocommerce-migration-service.html](https://meetanshi.com/prestashop-to-woocommerce-migration-service.html)***
